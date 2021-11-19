@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\proglama system\degiskenler\obj\Debug\net5.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\proglama system\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\proglama system\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\proglama system\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Users\HP\Documents\proglama system\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
